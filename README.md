@@ -34,10 +34,7 @@ Git | Docker | Kubernetes | Jenkins | Figma
 ---
 ## 📊 GitHub Stats
 
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
-
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=adil-pasha&theme=tokyonight)
 
 
