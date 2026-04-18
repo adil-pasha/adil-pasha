@@ -18,24 +18,13 @@
 ## 🧠 Tech Stack
 ### 💻 Languages
 Java | Python | C | SQL  
-
-### ⚙ Core CS
-DSA | OOPS | DBMS | Operating Systems  
-
-### 🌐 Development
-HTML | CSS | Bootstrap | Node.js | Express.js  
-
-### 🤖 AI / ML
-RAG Basics | NumPy | NLP | Corpus Development  
-
-### 🛠 Tools
-Git | Docker | Kubernetes | Jenkins | Figma  
-
 ---
 ## 📊 GitHub Stats
 
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=adil-pasha&theme=tokyonight)
+![snake gif](https://github.com/adil-pasha/adil-pasha/blob/main/dist/github-contribution-grid-snake.svg)
 
 
 ## 🚀 Key Projects
