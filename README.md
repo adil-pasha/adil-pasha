@@ -16,7 +16,6 @@
 ---
 
 ## 🧠 Tech Stack
-
 ### 💻 Languages
 Java | Python | C | SQL  
 
@@ -33,6 +32,14 @@ RAG Basics | NumPy | NLP | Corpus Development
 Git | Docker | Kubernetes | Jenkins | Figma  
 
 ---
+## 📊 GitHub Stats
+
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=adil-pasha&theme=tokyonight)
+
 
 ## 🚀 Key Projects
 
@@ -74,13 +81,6 @@ Git | Docker | Kubernetes | Jenkins | Figma
 
 ---
 
-## 📊 GitHub Stats
-
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=adil-pasha&theme=tokyonight)
 
 ---
 
