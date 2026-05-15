@@ -10,7 +10,6 @@
 - 🎓 B.Tech CSE @ CMR Technical Campus (2027)
 - 🧠 Strong in Data Structures, OOPS & System Design Basics
 - 🤖 AI Developer Intern @ Swecha (Worked on Telugu NLP datasets)
-- 🛠 Technical Lead @ Idea Genesis Club
 - 🎯 Goal: Build scalable systems & crack top internships
 
 ---
@@ -22,8 +21,6 @@ Java | Python | C | SQL
 ## 📊 GitHub Stats
 
 ![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=adil-pasha&theme=tokyonight)
 
 
 ## 🚀 Key Projects
