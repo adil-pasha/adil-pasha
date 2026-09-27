@@ -10,11 +10,11 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  P1  SHAIK ADIL PASHA                          HIGH SCORE ▸▸▸  ║
-║  CLASS: AI/ML Engineer × Automation Builder                    ║
-║  LEVEL: 04            STATUS: 🟢 ONLINE                        ║
-║  QUEST: Shipping production-grade AI pipelines                 ║
-║  GUILD: Idea Genesis Club CMRTC — Technical Lead                ║
+║  PLAYER:  SHAIK ADIL PASHA                                    ║
+║  CLASS: AI/ML Engineer × Automation Builder                   ║
+║  LEVEL: 04            STATUS: 🟢 ONLINE                      ▸▸▸
+║  QUEST: Shipping production-grade AI pipelines                ║
+║  GUILD: Idea Genesis Club CMRTC — Technical Lead              ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
