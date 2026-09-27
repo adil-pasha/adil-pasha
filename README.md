@@ -1,54 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=SHAIK%20ADIL%20PASHA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Automation%20%7C%20Level%204%20Builder&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:ff2e63,100:08d9d6&height=200&section=header&text=SHAIK%20ADIL%20PASHA&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=INSERT%20COIN%20TO%20CONTINUE&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=%3E+Building+RAG+pipelines+%26+multi-agent+LLM+systems;%3E+Turning+raw+data+into+decisions+(XGBoost+%2B+SHAP);%3E+Shipping+production-grade+automation+with+n8n;%3E+Final-Year+CSE+Student+%40+Class+of+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3200&pause=900&color=08D9D6&background=0D0221&center=true&vCenter=true&width=700&height=50&lines=BUILDING+RAG+%26+MULTI-AGENT+LLM+SYSTEMS;JAVA+%2B+DSA+MAIN+CHARACTER+ENERGY;SHIPPING+AUTOMATION+WITH+N8N;FINAL+YEAR+CSE+%7C+CLASS+OF+2027" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="100%">
-
-```yaml
-player.class:     "AI/ML Engineer × Full-Stack Automation"
-player.level:     4               # Final Year — B.Tech CSE, Class of 2027
-current_quest:    "Shipping production-grade AI pipelines"
-status:           "🟢 Online — open to Internship / SWE / AI-ML roles"
-guild:            "Idea Genesis Club CMRTC — Technical Lead"
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  P1  SHAIK ADIL PASHA                          HIGH SCORE ▸▸▸  ║
+║  CLASS: AI/ML Engineer × Automation Builder                    ║
+║  LEVEL: 04            STATUS: 🟢 ONLINE                        ║
+║  QUEST: Shipping production-grade AI pipelines                 ║
+║  GUILD: Idea Genesis Club CMRTC — Technical Lead                ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-### 🎮 XP BAR — SKILL PROGRESSION
+### ▓▒░ XP METER ░▒▓
 
 </div>
 
-| Stat | Level | Progress |
+| STAT | LVL | METER |
 |---|---|---|
-| 🧠 **AI / ML Engineering** | `Lv. 8` | ██████████████████░░ 90% |
-| ⚙️ **Automation & Agentic Workflows** | `Lv. 9` | ███████████████████░ 95% |
-| 🗄️ **Data & SQL Systems** | `Lv. 7` | ████████████████░░░░ 80% |
-| 🌐 **Full-Stack (Node/Express)** | `Lv. 5` | ███████████░░░░░░░░░ 55% |
-| 📊 **BI & Storytelling (Power BI)** | `Lv. 6` | █████████████░░░░░░░ 70% |
+| ☕ **Java (DSA / Competitive Programming)** | `LV 9` | `█████████████████████░` `95%` |
+| 🧠 **AI / ML Engineering** | `LV 8` | `████████████████████░░` `90%` |
+| ⚙️ **Automation & Agentic Workflows** | `LV 9` | `█████████████████████░` `95%` |
+| 🗄️ **Data & SQL Systems** | `LV 7` | `██████████████████░░░░` `80%` |
+| 🌐 **Full-Stack (Node/Express)** | `LV 5` | `███████████░░░░░░░░░░░` `55%` |
+| 📊 **BI & Storytelling (Power BI)** | `LV 6` | `██████████████░░░░░░░░` `70%` |
 
 <br/>
 
 <div align="center">
 
-### 🗡️ TECH ARSENAL
+### 🕹️ ITEM INVENTORY
 
-<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,express,postgres,supabase,docker,git,github,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,postgres,supabase,docker,git,github,figma,vscode&theme=dark" />
 
 <br/><br/>
 
-`RAG Pipelines` · `LLM Multi-Agent Orchestration` · `XGBoost` · `Prophet` · `SHAP` · `LIME` · `Vertex AI` · `Pandas` · `n8n` · `Streamlit`
+<img src="https://img.shields.io/badge/-Java%20%7C%20DSA-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RAG%20Pipelines-08D9D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LLM%20Multi--Agent-FF2E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-XGBoost-0d0221?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Prophet-252A34?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-SHAP%20%7C%20LIME-08D9D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-n8n-FF2E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Streamlit-0d0221?style=for-the-badge"/>
 
 </div>
 
@@ -56,7 +58,7 @@ guild:            "Idea Genesis Club CMRTC — Technical Lead"
 
 <div align="center">
 
-### 🏆 QUEST LOG — MAJOR ACHIEVEMENTS
+### 🏆 TROPHY CABINET
 
 </div>
 
@@ -88,27 +90,27 @@ guild:            "Idea Genesis Club CMRTC — Technical Lead"
 
 <div align="center">
 
-### ⚔️ BOSS FIGHTS CLEARED (Experience)
+### ⚔️ BOSS FIGHTS CLEARED
 
 </div>
 
 ```
 [✔] IISPPR — Software Engineer Intern
-    ↳ Shipped a 22-node multi-agent AI pipeline (Gemini Pro + Flash)
-    ↳ Cut document review time from 2–4 weeks → 60–90 seconds
+    > Shipped a 22-node multi-agent AI pipeline (Gemini Pro + Flash)
+    > Cut document review time from 2-4 weeks --> 60-90 seconds
 
 [✔] PwC — Technical Trainee, Advisory Launchpad
-    ↳ Earned certs in SAP, Java, Modern Data Systems & GenAI
+    > Earned certs in SAP, Java, Modern Data Systems & GenAI
 
 [✔] Swecha (Viswam.ai) — AI Developer Intern
-    ↳ Built a RAG model for low-resource Telugu language generation
+    > Built a RAG model for low-resource Telugu language generation
 ```
 
 <br/>
 
 <div align="center">
 
-### 🧩 SIDE QUESTS (Featured Projects)
+### 🧩 SIDE QUESTS
 
 <table>
 <tr>
@@ -116,7 +118,7 @@ guild:            "Idea Genesis Club CMRTC — Technical Lead"
 
 **📦 AdaptiveXSC**
 <br/>Explainable demand-forecasting & scenario-simulation platform
-<br/>`XGBoost` `Prophet` `SHAP/LIME` `Streamlit`
+<br/><code>XGBoost</code> <code>Prophet</code> <code>SHAP/LIME</code> <code>Streamlit</code>
 <br/>🔗 <a href="https://adaptive-xsc.streamlit.app/">Live Demo</a>
 
 </td>
@@ -124,7 +126,7 @@ guild:            "Idea Genesis Club CMRTC — Technical Lead"
 
 **📈 Enterprise Decision Intelligence**
 <br/>End-to-end analytics → executive insights & risk forecasts
-<br/>`Power BI` `PostgreSQL` `Streamlit`
+<br/><code>Power BI</code> <code>PostgreSQL</code> <code>Streamlit</code>
 <br/>🔗 <a href="https://github.com/adil-pasha/Enterprise-decision-intelligence-dashboard">Repo</a>
 
 </td>
@@ -137,53 +139,33 @@ guild:            "Idea Genesis Club CMRTC — Technical Lead"
 
 <div align="center">
 
-### 📊 LIVE STATS DASHBOARD
+### 🎯 ARCADE LEADERBOARD — Competitive Programming
 
-<img src="https://github-readme-stats.vercel.app/api?username=adil-pasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-pasha&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-pasha&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+`117+` ranked matches cleared · Java-first solver for DSA-heavy rounds
 
 </div>
 
-<div align="center">
-
-### 🐍 CONTRIBUTION GAME
-
-<img src="https://raw.githubusercontent.com/adil-pasha/adil-pasha/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>⚠️ Snake animation activates once the <code>snake.yml</code> GitHub Action is enabled on this repo</sub>
-
-</div>
+| PLATFORM | HANDLE | LINK |
+|---|---|---|
+| 🟠 LeetCode | `adil-pasha` | [profile](https://leetcode.com/adil-pasha) |
+| 🟤 CodeChef | `batman_10` | [profile](https://www.codechef.com/users/batman_10) |
+| 🔵 Codeforces | `237r1a05p9` | [profile](https://codeforces.com/profile/237r1a05p9) |
+| 🟢 HackerRank | `dilluabbu` | [profile](https://www.hackerrank.com/dilluabbu) |
+| ⚪ InterviewBit | `adil-pasha-shaik` | [profile](https://www.interviewbit.com/profile/adil-pasha-shaik) |
 
 <br/>
 
 <div align="center">
 
-### 🧑‍💻 COMPETITIVE ARENA
-
-`117+` ranked matches across **LeetCode** · **CodeChef** · **Codeforces**
-
-<a href="https://leetcode.com/adil-pasha"><img src="https://img.shields.io/badge/LeetCode-adil--pasha-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/batman_10"><img src="https://img.shields.io/badge/CodeChef-batman__10-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/237r1a05p9"><img src="https://img.shields.io/badge/Codeforces-237r1a05p9-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/dilluabbu"><img src="https://img.shields.io/badge/HackerRank-dilluabbu-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📡 CONNECT
+### 📡 CONTINUE?
 
 <a href="https://www.linkedin.com/in/shaik-adil-pasha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/adil-pasha"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adil-pasha&label=Profile+Views&color=00c9a7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=adil-pasha&label=PROFILE+VIEWS&color=ff2e63&style=for-the-badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:08d9d6,50:ff2e63,100:0d0221&height=100&section=footer" width="100%"/>
