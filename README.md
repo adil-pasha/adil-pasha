@@ -14,7 +14,7 @@
 ║  CLASS: AI/ML Engineer × Automation Builder                   ║
 ║  LEVEL: 04            STATUS: 🟢 ONLINE                      ▸▸▸
 ║  QUEST: Shipping production-grade AI pipelines                ║
-║  GUILD: Idea Genesis Club CMRTC — Technical Lead              ║
+║  GUILD: CMR Technical Campus, Hyderabad                       ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
